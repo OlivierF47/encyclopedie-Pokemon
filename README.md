@@ -27,4 +27,4 @@ Ce projet a été réalisé dans le cadre de ma formation en **développement we
 
 ## 🔗 Lien vers le projet
 
-👉 
+👉 https://olivierf47.github.io/encyclopedie-Pokemon/
